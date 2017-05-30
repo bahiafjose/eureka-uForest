@@ -68,6 +68,12 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			<version>1.4.0.RELEASE</version>
 		</dependency>
+		
+		<dependency>
+		    <groupId>com.google.inject</groupId>
+		    <artifactId>guice</artifactId>
+		    <version>4.0</version>
+		  </dependency>
 
 	</dependencies>
 
